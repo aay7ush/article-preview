@@ -12,7 +12,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Article preview component](https://huddle-land1ng-page.netlify.app/)
+- Live Site URL: [Article preview component](https://article-prev1ew-component.netlify.app/)
 
 ## Built with
 
